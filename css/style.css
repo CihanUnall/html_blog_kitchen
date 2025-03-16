@@ -1,0 +1,80 @@
+body {
+  margin: 0%;
+}
+.titel {
+  border-style: double;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 40px;
+  padding: 20px;
+  margin: 0px auto;
+  color: rgba(59, 212, 212, 0.76);
+  width: 930px;
+  background-color: rgba(218, 248, 237, 0.432);
+}
+.mainbild {
+  border: 1px solid rgba(59, 134, 204, 0.506);
+  border-radius: 5px;
+  margin: 20px auto;
+  height: 340px;
+  width: 650px;
+  overflow: hidden;
+}
+.blog-titel {
+  text-align: center;
+  margin: 20px auto;
+  width: 930px;
+}
+
+.Mitte {
+  margin: 20px auto;
+  width: 930px;
+  margin-top: 50px;
+  height: 720px;
+  margin: auto;
+  color: darkslategrey;
+  text-align: justify;
+}
+
+#Rezepte {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: gray;
+}
+#image1 {
+  border-radius: 10px;
+  height: 380px;
+  width: 380px;
+  overflow: hidden;
+  margin: 20px auto;
+}
+
+.unten {
+  border: 1px solid rgba(59, 134, 204, 0.506);
+  margin: 0px auto;
+  width: 930px;
+
+  background-color: rgba(128, 128, 128, 0.301);
+  border-radius: 10px;
+  color: black;
+}
+.link {
+  margin: 0px auto;
+  width: 900px;
+  padding: 30px;
+  text-align: center;
+}
+a {
+  color: chocolate;
+  font-weight: bold;
+}
+a:hover {
+  background-color: pink;
+  padding: 8px;
+  border-radius: 10px;
+  color: darkviolet;
+}
+a:visited {
+  background-color: yellow;
+  padding: 8px;
+  border-radius: 10px;
+}
